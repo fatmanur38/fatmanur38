@@ -6,6 +6,6 @@
 
 ### 📫 Feel free to reach out to me:  
 - **Email:** [fatmanurergen38@gmail.com](mailto:fatmanurergen38@gmail.com)  
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/your-linkedin-profile)  
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/fatmanur-ergen-59a64a2a3/)  
 
 Looking forward to learning and building great projects together! 🌟  
