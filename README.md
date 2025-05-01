@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Fatmanur Ergen
 
 - 👀 I have a strong interest in the world of software development.  
-- 🌱 Recently, I've been focusing on improving my skills in JavaScript, C, and Next.js.  
+- 🌱 Recently, I've been focusing on improving my skills in JavaScript, C, C#, Next.js and React Native.  
 - 💼 You can follow my projects and learning journey here on GitHub.  
 
 ### 📫 Feel free to reach out to me:  
